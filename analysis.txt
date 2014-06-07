@@ -1,0 +1,40 @@
+Sid Krishnan challenge analysis:
+
+1) To start with, I'm going to create a class for a customer which will store Quote information, and additional info like state.
+2) I'm thinking as of now Quote info will be another class, which will store the supplier name and relevant price numbers.
+3) The final solution would possibly look like this:
+
+   a) Parse input CSV into an array of customer objects
+      a1) This will involve making sure that duplicate customer objects are not created
+   b) Compute "real price" for each quote, by parsing state_taxes.csv
+   c) Write function to take this array and "sort" it
+   c) Write output of above function to a new CSV
+   
+4) Going to go ahead and code this up without tests for now, for proof of concept.
+
+5) looks like there's a typo in sample_output.csv
+
+< 1,Green Energy,0.0672,3,0.0022 -> I believe this is the correct one, because the lowest price is 0.065
+< 1,Freedom Energy,0.09,4,0.025
+---
+> 1,Green Energy,0.0672,3,0.0012
+> 1,Freedom Energy,0.09,4,0.0228
+
+
+Thoughts on Improvement:
+
+1) For now, I've coded up a proof of concept for this app, but ideally there should be a testing procedure in place. I'd likely test the following areas:
+
+   a) Make sure that for the "equal quotes" case, that the supplier name is sorted alphabetically
+   b) The "equal quotes" case could arise in a couple of different ways - one is where they are equal and the tax rate is the same or not applicable, and the other is where they are different numbers and they differed in whether the price included taxes or not. So I'd test these situations and also situations where the numbers are close, to make sure they are sorted correctly.
+   c) Make sure that the prices listed in the output file include taxes, and that they don't double count taxes when input file entry is "N"
+   
+   
+2) I'd likely move the quotes sorting procedure to the customer class, because they are related directly to the customer and probably shouldn't be in the main file/script
+
+3) I'd also write an initializer for the customer class, and the quote class.
+
+4) The method I'm using to ensure no duplication of customer objects seems a tad unelegant, so I would refactor this.
+
+5) I'd also refactor such that I'm able to pass in the file name as a command line argument.
+

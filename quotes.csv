@@ -1,0 +1,441 @@
+1,Yukon Electric,0.0662,Y,MA
+1,Good Energy,0.0723,N,MA
+1,Electricon,0.0688,Y,MA
+1,Acora,0.0532,Y,MA
+1,Green Energy,0.0727,N,MA
+2,Sure Energy,0.0667,Y,NJ
+2,Freedom National,0.0783,Y,NJ
+2,Pecona Energy,0.0791,N,NJ
+3,Pecona Energy,0.0711,Y,CT
+3,World Energy,0.0536,N,CT
+3,ChampStar,0.0562,N,CT
+3,Electricon,0.0656,N,CT
+3,Acora,0.0792,Y,CT
+3,Good Energy,0.0593,N,CT
+3,Freedom National,0.0632,Y,CT
+4,Pecona Energy,0.0704,Y,TX
+4,Sure Energy,0.0792,Y,TX
+5,Yukon Electric,0.062,Y,CT
+5,Good Energy,0.0546,N,CT
+5,Acora,0.0752,Y,CT
+6,Yukon Electric,0.0681,N,TX
+6,Sure Energy,0.0571,Y,TX
+7,Yukon Electric,0.0608,N,MA
+7,Good Energy,0.0774,Y,MA
+7,World Energy,0.0695,Y,MA
+7,Freedom National,0.069,N,MA
+7,Electricon,0.0582,Y,MA
+8,Sure Energy,0.0556,N,TX
+8,Acora,0.0534,N,TX
+8,ChampStar,0.0764,N,TX
+8,Pecona Energy,0.0619,Y,TX
+9,ChampStar,0.0517,N,CT
+9,Pecona Energy,0.07,N,CT
+9,Freedom National,0.0707,Y,CT
+10,Electricon,0.0658,Y,CT
+10,ChampStar,0.0787,Y,CT
+10,Pecona Energy,0.077,Y,CT
+11,Pecona Energy,0.0701,N,MD
+11,World Energy,0.0746,N,MD
+11,Freedom National,0.0579,N,MD
+11,Yukon Electric,0.0734,N,MD
+12,Pecona Energy,0.069,N,MD
+12,ChampStar,0.0568,Y,MD
+12,Acora,0.067,Y,MD
+12,Electricon,0.0534,Y,MD
+12,Freedom National,0.067,Y,MD
+12,Green Energy,0.0632,Y,MD
+12,Sure Energy,0.0785,Y,MD
+12,Yukon Electric,0.0509,N,MD
+13,Freedom National,0.0768,Y,TX
+13,ChampStar,0.0649,N,TX
+13,Green Energy,0.079,Y,TX
+13,World Energy,0.054,Y,TX
+14,Electricon,0.0742,Y,MD
+14,Acora,0.0532,N,MD
+14,Freedom National,0.0701,N,MD
+15,ChampStar,0.0772,Y,CT
+15,Freedom National,0.0744,N,CT
+15,Acora,0.0682,N,CT
+15,World Energy,0.0578,N,CT
+15,Electricon,0.065,Y,CT
+15,Green Energy,0.0747,N,CT
+15,Good Energy,0.0735,N,CT
+16,ChampStar,0.0663,Y,TX
+16,Good Energy,0.0685,Y,TX
+16,World Energy,0.0603,Y,TX
+16,Electricon,0.0782,Y,TX
+16,Freedom National,0.0627,N,TX
+16,Acora,0.056,Y,TX
+17,ChampStar,0.0574,Y,MA
+17,World Energy,0.0549,Y,MA
+17,Pecona Energy,0.0536,N,MA
+17,Yukon Electric,0.0796,Y,MA
+18,Pecona Energy,0.0632,Y,CT
+18,Green Energy,0.0697,Y,CT
+18,Yukon Electric,0.0737,N,CT
+18,Freedom National,0.0655,Y,CT
+19,Freedom National,0.0691,N,MD
+19,Good Energy,0.0612,Y,MD
+19,Yukon Electric,0.0645,N,MD
+20,World Energy,0.071,Y,NJ
+20,Green Energy,0.0597,Y,NJ
+20,Electricon,0.079,Y,NJ
+20,ChampStar,0.0719,N,NJ
+20,Yukon Electric,0.0579,Y,NJ
+20,Freedom National,0.0574,N,NJ
+21,Electricon,0.0781,Y,TX
+21,Green Energy,0.073,N,TX
+21,Acora,0.0637,Y,TX
+21,Yukon Electric,0.0536,Y,TX
+21,World Energy,0.0534,N,TX
+22,Good Energy,0.0783,N,MD
+22,Pecona Energy,0.0682,Y,MD
+22,ChampStar,0.0794,N,MD
+22,Yukon Electric,0.0681,N,MD
+22,Green Energy,0.0763,Y,MD
+23,Sure Energy,0.0668,Y,NJ
+23,Yukon Electric,0.0738,Y,NJ
+24,Acora,0.0667,N,CT
+24,ChampStar,0.0535,Y,CT
+24,Freedom National,0.0623,N,CT
+24,Green Energy,0.0569,Y,CT
+24,Electricon,0.071,Y,CT
+24,Good Energy,0.0505,N,CT
+24,Sure Energy,0.0633,Y,CT
+25,Good Energy,0.0652,Y,NJ
+25,Sure Energy,0.0768,Y,NJ
+25,Pecona Energy,0.0731,N,NJ
+25,Freedom National,0.0563,Y,NJ
+26,Pecona Energy,0.0754,N,CT
+26,Good Energy,0.0728,Y,CT
+26,Electricon,0.0537,Y,CT
+27,Freedom National,0.0717,Y,CT
+28,World Energy,0.0646,N,MA
+28,Green Energy,0.0718,Y,MA
+28,ChampStar,0.0521,N,MA
+28,Good Energy,0.0618,Y,MA
+28,Sure Energy,0.0615,N,MA
+29,Electricon,0.0586,N,TX
+29,Good Energy,0.054,N,TX
+29,Yukon Electric,0.0501,Y,TX
+29,ChampStar,0.0666,Y,TX
+29,World Energy,0.0684,Y,TX
+30,World Energy,0.0659,N,NJ
+30,Sure Energy,0.052,Y,NJ
+30,Freedom National,0.0698,Y,NJ
+30,ChampStar,0.0794,N,NJ
+30,Pecona Energy,0.0782,Y,NJ
+30,Acora,0.0665,N,NJ
+31,Pecona Energy,0.0617,N,MD
+31,World Energy,0.0706,Y,MD
+31,ChampStar,0.0724,Y,MD
+31,Green Energy,0.0553,N,MD
+31,Freedom National,0.065,Y,MD
+31,Yukon Electric,0.0667,Y,MD
+32,World Energy,0.0531,N,NJ
+32,Yukon Electric,0.0687,N,NJ
+33,Electricon,0.0624,N,MD
+33,Pecona Energy,0.0559,N,MD
+33,Freedom National,0.079,N,MD
+33,Acora,0.0514,Y,MD
+33,Sure Energy,0.0644,Y,MD
+34,Yukon Electric,0.0628,N,NJ
+34,World Energy,0.0688,N,NJ
+34,Green Energy,0.0651,N,NJ
+34,Good Energy,0.0506,Y,NJ
+34,Electricon,0.078,Y,NJ
+34,Acora,0.0651,N,NJ
+35,Sure Energy,0.0655,Y,MD
+35,World Energy,0.0683,Y,MD
+35,ChampStar,0.0547,Y,MD
+35,Acora,0.0757,Y,MD
+35,Pecona Energy,0.066,Y,MD
+35,Green Energy,0.0675,N,MD
+35,Electricon,0.0664,N,MD
+36,ChampStar,0.0532,Y,NJ
+36,Acora,0.0765,N,NJ
+36,Pecona Energy,0.0708,Y,NJ
+36,Yukon Electric,0.0737,N,NJ
+36,World Energy,0.0775,N,NJ
+36,Good Energy,0.066,N,NJ
+37,ChampStar,0.0577,Y,CT
+37,Good Energy,0.0657,Y,CT
+37,Electricon,0.0643,Y,CT
+37,Green Energy,0.076,Y,CT
+37,Acora,0.0714,Y,CT
+37,Yukon Electric,0.0739,N,CT
+38,Electricon,0.0702,Y,MD
+39,World Energy,0.0629,Y,NJ
+39,Good Energy,0.0574,Y,NJ
+40,Electricon,0.0764,N,CT
+40,Pecona Energy,0.0783,Y,CT
+40,Acora,0.061,N,CT
+40,Sure Energy,0.0584,Y,CT
+40,Freedom National,0.0701,N,CT
+40,World Energy,0.0691,N,CT
+40,Good Energy,0.0578,Y,CT
+40,ChampStar,0.0693,Y,CT
+41,Good Energy,0.0655,Y,NJ
+41,Yukon Electric,0.0715,Y,NJ
+41,World Energy,0.0561,N,NJ
+41,Acora,0.0772,Y,NJ
+42,ChampStar,0.0791,N,MA
+42,Pecona Energy,0.0752,N,MA
+42,Yukon Electric,0.0754,Y,MA
+42,Electricon,0.0663,Y,MA
+42,World Energy,0.0517,N,MA
+42,Freedom National,0.057,Y,MA
+43,Yukon Electric,0.0797,N,TX
+43,World Energy,0.0511,Y,TX
+43,Green Energy,0.0592,N,TX
+43,Sure Energy,0.0753,Y,TX
+44,Electricon,0.0514,N,TX
+45,ChampStar,0.0597,Y,TX
+45,Green Energy,0.0614,Y,TX
+45,Sure Energy,0.0638,N,TX
+45,Freedom National,0.0518,Y,TX
+45,Electricon,0.0532,Y,TX
+45,Acora,0.0693,Y,TX
+45,Pecona Energy,0.0742,N,TX
+46,Sure Energy,0.0797,Y,MA
+46,Acora,0.0756,Y,MA
+46,Freedom National,0.0568,Y,MA
+46,Green Energy,0.0685,Y,MA
+46,Good Energy,0.0576,Y,MA
+46,World Energy,0.0625,N,MA
+46,ChampStar,0.0674,N,MA
+47,World Energy,0.0697,N,TX
+48,ChampStar,0.0537,Y,TX
+48,Good Energy,0.0599,Y,TX
+48,Freedom National,0.0771,Y,TX
+48,Electricon,0.0601,Y,TX
+49,Green Energy,0.0573,Y,MA
+49,World Energy,0.0631,Y,MA
+50,World Energy,0.0541,N,MA
+50,Pecona Energy,0.058,Y,MA
+50,Yukon Electric,0.0716,N,MA
+50,Green Energy,0.0777,Y,MA
+51,Freedom National,0.0661,N,NJ
+51,Electricon,0.0635,N,NJ
+51,Sure Energy,0.0759,N,NJ
+51,Pecona Energy,0.077,Y,NJ
+52,ChampStar,0.0511,N,TX
+52,World Energy,0.073,N,TX
+52,Freedom National,0.0788,Y,TX
+52,Yukon Electric,0.0578,N,TX
+53,Sure Energy,0.0755,Y,CT
+53,Electricon,0.0764,N,CT
+53,World Energy,0.0749,N,CT
+53,Pecona Energy,0.0564,N,CT
+53,Freedom National,0.0783,N,CT
+53,Good Energy,0.064,Y,CT
+53,ChampStar,0.0559,N,CT
+53,Yukon Electric,0.0638,Y,CT
+54,Green Energy,0.0539,Y,MD
+54,Sure Energy,0.0646,N,MD
+54,World Energy,0.0539,N,MD
+54,Electricon,0.0763,Y,MD
+55,Sure Energy,0.077,N,NJ
+55,Pecona Energy,0.0619,N,NJ
+55,Green Energy,0.057,Y,NJ
+55,Acora,0.0681,N,NJ
+55,Good Energy,0.0712,N,NJ
+55,World Energy,0.0746,Y,NJ
+55,Yukon Electric,0.0719,Y,NJ
+55,ChampStar,0.0565,N,NJ
+56,Acora,0.0565,Y,TX
+56,Freedom National,0.0773,Y,TX
+57,Sure Energy,0.0626,Y,MA
+57,Electricon,0.0644,N,MA
+57,World Energy,0.0761,N,MA
+58,ChampStar,0.0517,N,MA
+58,Yukon Electric,0.0542,Y,MA
+58,Freedom National,0.0785,Y,MA
+58,World Energy,0.0573,N,MA
+59,Yukon Electric,0.0519,Y,TX
+59,ChampStar,0.0544,N,TX
+59,World Energy,0.0608,Y,TX
+59,Electricon,0.0748,Y,TX
+59,Acora,0.0586,N,TX
+59,Pecona Energy,0.075,N,TX
+59,Good Energy,0.0566,N,TX
+59,Sure Energy,0.0511,Y,TX
+60,Good Energy,0.0741,Y,CT
+60,Acora,0.0626,Y,CT
+60,Yukon Electric,0.0759,Y,CT
+61,Electricon,0.0727,Y,NJ
+61,World Energy,0.0756,Y,NJ
+61,Green Energy,0.0505,N,NJ
+61,Acora,0.061,N,NJ
+61,Good Energy,0.0592,Y,NJ
+61,Pecona Energy,0.0762,Y,NJ
+61,Yukon Electric,0.0582,N,NJ
+62,Freedom National,0.0546,N,MA
+62,ChampStar,0.0694,N,MA
+62,Electricon,0.0709,Y,MA
+62,Green Energy,0.0778,N,MA
+63,Freedom National,0.0671,Y,CT
+63,Pecona Energy,0.068,Y,CT
+63,ChampStar,0.0527,N,CT
+63,Green Energy,0.059,N,CT
+63,Acora,0.067,Y,CT
+64,Acora,0.0535,N,MA
+64,Pecona Energy,0.053,Y,MA
+64,World Energy,0.0572,N,MA
+65,Green Energy,0.0689,N,NJ
+65,Electricon,0.0708,N,NJ
+66,Freedom National,0.0773,Y,NJ
+66,Sure Energy,0.07,Y,NJ
+66,World Energy,0.0726,N,NJ
+66,ChampStar,0.0704,Y,NJ
+67,Electricon,0.0741,Y,MD
+67,Sure Energy,0.0657,Y,MD
+68,Acora,0.0577,N,MA
+68,Yukon Electric,0.052,N,MA
+69,Pecona Energy,0.057,N,TX
+69,World Energy,0.0644,N,TX
+70,Freedom National,0.0693,Y,CT
+70,Yukon Electric,0.0593,N,CT
+71,Green Energy,0.0551,N,NJ
+71,Good Energy,0.0655,Y,NJ
+71,Freedom National,0.0768,N,NJ
+72,Acora,0.0638,Y,NJ
+73,Freedom National,0.053,Y,MA
+73,Pecona Energy,0.0676,Y,MA
+73,ChampStar,0.0731,N,MA
+73,Green Energy,0.0725,Y,MA
+73,Acora,0.0732,Y,MA
+73,Sure Energy,0.0705,N,MA
+73,Good Energy,0.0524,N,MA
+74,Sure Energy,0.058,N,TX
+74,Good Energy,0.052,Y,TX
+74,Electricon,0.0612,N,TX
+74,Freedom National,0.051,N,TX
+74,Yukon Electric,0.0799,N,TX
+74,Green Energy,0.0669,N,TX
+74,Pecona Energy,0.0641,N,TX
+74,Acora,0.0625,N,TX
+75,Electricon,0.0595,Y,TX
+75,Yukon Electric,0.059,Y,TX
+75,ChampStar,0.0607,Y,TX
+76,Electricon,0.0711,N,CT
+76,Yukon Electric,0.0692,N,CT
+76,Good Energy,0.0642,N,CT
+76,ChampStar,0.0688,N,CT
+76,Acora,0.0773,Y,CT
+76,Freedom National,0.053,Y,CT
+76,Sure Energy,0.0636,N,CT
+76,Green Energy,0.0644,N,CT
+77,World Energy,0.0683,Y,TX
+77,Electricon,0.0605,Y,TX
+77,Sure Energy,0.0675,N,TX
+77,ChampStar,0.0562,Y,TX
+77,Good Energy,0.0629,N,TX
+77,Green Energy,0.0678,Y,TX
+77,Freedom National,0.0789,N,TX
+77,Yukon Electric,0.0512,Y,TX
+78,Freedom National,0.0561,Y,MA
+78,Yukon Electric,0.0663,Y,MA
+78,Pecona Energy,0.0508,Y,MA
+79,Green Energy,0.0508,N,MD
+79,Good Energy,0.0557,N,MD
+79,Acora,0.0787,N,MD
+79,ChampStar,0.0635,Y,MD
+79,Pecona Energy,0.0605,N,MD
+79,Sure Energy,0.0561,Y,MD
+79,Yukon Electric,0.0599,N,MD
+79,World Energy,0.0541,Y,MD
+80,Sure Energy,0.0799,Y,NJ
+80,ChampStar,0.0502,Y,NJ
+80,Yukon Electric,0.0723,Y,NJ
+80,Electricon,0.0751,Y,NJ
+80,Good Energy,0.0668,Y,NJ
+80,Green Energy,0.072,N,NJ
+80,Acora,0.0799,Y,NJ
+81,Good Energy,0.0577,N,TX
+81,Acora,0.0664,N,TX
+81,Pecona Energy,0.0503,N,TX
+81,Sure Energy,0.0586,Y,TX
+82,World Energy,0.0616,Y,MD
+82,Green Energy,0.0715,Y,MD
+83,Yukon Electric,0.057,N,MD
+83,Electricon,0.0653,N,MD
+83,Green Energy,0.0632,N,MD
+83,Good Energy,0.0757,N,MD
+84,Yukon Electric,0.0786,N,MA
+84,World Energy,0.0665,N,MA
+84,Pecona Energy,0.0732,N,MA
+85,Acora,0.0739,N,MA
+85,World Energy,0.0656,Y,MA
+85,Pecona Energy,0.0622,Y,MA
+85,Yukon Electric,0.0551,Y,MA
+85,Good Energy,0.0616,N,MA
+85,ChampStar,0.0526,Y,MA
+85,Sure Energy,0.0508,N,MA
+85,Green Energy,0.0658,N,MA
+86,Acora,0.071,N,CT
+87,Green Energy,0.078,N,MD
+87,Electricon,0.0781,N,MD
+87,Yukon Electric,0.0658,N,MD
+87,Freedom National,0.0735,N,MD
+87,Pecona Energy,0.0707,Y,MD
+87,World Energy,0.0502,N,MD
+87,Sure Energy,0.0712,N,MD
+88,Freedom National,0.051,N,CT
+88,Electricon,0.0765,Y,CT
+88,Sure Energy,0.0722,N,CT
+89,World Energy,0.0635,N,TX
+89,Good Energy,0.0583,Y,TX
+89,Acora,0.0562,N,TX
+89,Freedom National,0.0678,N,TX
+89,Green Energy,0.0583,N,TX
+89,Electricon,0.0571,N,TX
+89,Pecona Energy,0.0621,N,TX
+90,World Energy,0.0709,N,NJ
+90,Electricon,0.065,N,NJ
+90,Good Energy,0.0543,N,NJ
+90,Green Energy,0.0754,N,NJ
+90,Yukon Electric,0.0558,Y,NJ
+90,Sure Energy,0.0727,N,NJ
+91,Pecona Energy,0.0523,N,MD
+91,Good Energy,0.0799,N,MD
+91,World Energy,0.0535,N,MD
+91,Electricon,0.0728,Y,MD
+91,ChampStar,0.0646,Y,MD
+91,Freedom National,0.0622,N,MD
+92,Yukon Electric,0.0674,Y,MA
+92,Freedom National,0.0667,Y,MA
+92,Good Energy,0.0522,N,MA
+92,Acora,0.0685,Y,MA
+92,Sure Energy,0.0613,N,MA
+92,Electricon,0.0756,N,MA
+92,World Energy,0.0679,Y,MA
+93,Sure Energy,0.0649,Y,NJ
+93,ChampStar,0.0559,Y,NJ
+93,Good Energy,0.0771,N,NJ
+93,Green Energy,0.0738,N,NJ
+93,Yukon Electric,0.0524,N,NJ
+93,Electricon,0.0705,N,NJ
+94,Electricon,0.0655,Y,MA
+94,Green Energy,0.0727,N,MA
+94,Pecona Energy,0.0522,N,MA
+94,Good Energy,0.0706,N,MA
+95,Green Energy,0.0698,N,NJ
+95,Sure Energy,0.064,Y,NJ
+95,Pecona Energy,0.0745,Y,NJ
+96,Freedom National,0.0722,Y,CT
+96,Good Energy,0.0548,Y,CT
+97,Sure Energy,0.0561,Y,TX
+97,Yukon Electric,0.0623,Y,TX
+97,ChampStar,0.0705,N,TX
+97,Acora,0.0537,Y,TX
+97,Freedom National,0.0693,N,TX
+98,Acora,0.0705,Y,TX
+98,Sure Energy,0.0735,N,TX
+98,World Energy,0.0554,N,TX
+99,Acora,0.0772,Y,NJ
+100,Electricon,0.0713,N,MD
+100,ChampStar,0.0558,N,MD
+100,Green Energy,0.063,N,MD
+100,Yukon Electric,0.0674,Y,MD

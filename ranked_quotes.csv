@@ -1,0 +1,441 @@
+1,Acora,0.0532,1,0.0
+1,Yukon Electric,0.0662,2,0.013
+1,Electricon,0.0688,3,0.0156
+1,Good Energy,0.0777,4,0.0245
+1,Green Energy,0.0782,5,0.025
+2,Sure Energy,0.0667,1,0.0
+2,Freedom National,0.0783,2,0.0116
+2,Pecona Energy,0.0846,3,0.0179
+3,World Energy,0.056,1,0.0
+3,ChampStar,0.0587,2,0.0027
+3,Good Energy,0.062,3,0.006
+3,Freedom National,0.0632,4,0.0072
+3,Electricon,0.0686,5,0.0125
+3,Pecona Energy,0.0711,6,0.0151
+3,Acora,0.0792,7,0.0232
+4,Pecona Energy,0.0704,1,0.0
+4,Sure Energy,0.0792,2,0.0088
+5,Good Energy,0.0571,1,0.0
+5,Yukon Electric,0.062,2,0.0049
+5,Acora,0.0752,3,0.0181
+6,Sure Energy,0.0571,1,0.0
+6,Yukon Electric,0.0715,2,0.0144
+7,Electricon,0.0582,1,0.0
+7,Yukon Electric,0.0654,2,0.0072
+7,World Energy,0.0695,3,0.0113
+7,Freedom National,0.0742,4,0.016
+7,Good Energy,0.0774,5,0.0192
+8,Acora,0.0561,1,0.0
+8,Sure Energy,0.0584,2,0.0023
+8,Pecona Energy,0.0619,3,0.0058
+8,ChampStar,0.0802,4,0.0241
+9,ChampStar,0.054,1,0.0
+9,Freedom National,0.0707,2,0.0167
+9,Pecona Energy,0.0732,3,0.0191
+10,Electricon,0.0658,1,0.0
+10,Pecona Energy,0.077,2,0.0112
+10,ChampStar,0.0787,3,0.0129
+11,Freedom National,0.0609,1,0.0
+11,Pecona Energy,0.0737,2,0.0128
+11,Yukon Electric,0.0771,3,0.0163
+11,World Energy,0.0784,4,0.0176
+12,Electricon,0.0534,1,0.0
+12,Yukon Electric,0.0535,2,0.0001
+12,ChampStar,0.0568,3,0.0034
+12,Green Energy,0.0632,4,0.0098
+12,Acora,0.067,5,0.0136
+12,Freedom National,0.067,6,0.0136
+12,Pecona Energy,0.0725,7,0.0191
+12,Sure Energy,0.0785,8,0.0251
+13,World Energy,0.054,1,0.0
+13,ChampStar,0.0681,2,0.0141
+13,Freedom National,0.0768,3,0.0228
+13,Green Energy,0.079,4,0.025
+14,Acora,0.0559,1,0.0
+14,Freedom National,0.0737,2,0.0178
+14,Electricon,0.0742,3,0.0183
+15,World Energy,0.0604,1,0.0
+15,Electricon,0.065,2,0.0046
+15,Acora,0.0713,3,0.0109
+15,Good Energy,0.0768,4,0.0164
+15,ChampStar,0.0772,5,0.0168
+15,Freedom National,0.0777,6,0.0173
+15,Green Energy,0.0781,7,0.0177
+16,Acora,0.056,1,0.0
+16,World Energy,0.0603,2,0.0043
+16,Freedom National,0.0658,3,0.0098
+16,ChampStar,0.0663,4,0.0103
+16,Good Energy,0.0685,5,0.0125
+16,Electricon,0.0782,6,0.0222
+17,World Energy,0.0549,1,0.0
+17,ChampStar,0.0574,2,0.0025
+17,Pecona Energy,0.0576,3,0.0027
+17,Yukon Electric,0.0796,4,0.0247
+18,Pecona Energy,0.0632,1,0.0
+18,Freedom National,0.0655,2,0.0023
+18,Green Energy,0.0697,3,0.0065
+18,Yukon Electric,0.077,4,0.0138
+19,Good Energy,0.0612,1,0.0
+19,Yukon Electric,0.0678,2,0.0066
+19,Freedom National,0.0726,3,0.0114
+20,Yukon Electric,0.0579,1,0.0
+20,Green Energy,0.0597,2,0.0018
+20,Freedom National,0.0614,3,0.0035
+20,World Energy,0.071,4,0.0131
+20,ChampStar,0.0769,5,0.019
+20,Electricon,0.079,6,0.0211
+21,Yukon Electric,0.0536,1,0.0
+21,World Energy,0.0561,2,0.0025
+21,Acora,0.0637,3,0.0101
+21,Green Energy,0.0767,4,0.023
+21,Electricon,0.0781,5,0.0245
+22,Pecona Energy,0.0682,1,0.0
+22,Yukon Electric,0.0716,2,0.0034
+22,Green Energy,0.0763,3,0.0081
+22,Good Energy,0.0823,4,0.0141
+22,ChampStar,0.0834,5,0.0152
+23,Sure Energy,0.0668,1,0.0
+23,Yukon Electric,0.0738,2,0.007
+24,Good Energy,0.0528,1,0.0
+24,ChampStar,0.0535,2,0.0007
+24,Green Energy,0.0569,3,0.0041
+24,Sure Energy,0.0633,4,0.0105
+24,Freedom National,0.0651,5,0.0123
+24,Acora,0.0697,6,0.0169
+24,Electricon,0.071,7,0.0182
+25,Freedom National,0.0563,1,0.0
+25,Good Energy,0.0652,2,0.0089
+25,Sure Energy,0.0768,3,0.0205
+25,Pecona Energy,0.0782,4,0.0219
+26,Electricon,0.0537,1,0.0
+26,Good Energy,0.0728,2,0.0191
+26,Pecona Energy,0.0788,3,0.0251
+27,Freedom National,0.0717,1,0.0
+28,ChampStar,0.056,1,0.0
+28,Good Energy,0.0618,2,0.0058
+28,Sure Energy,0.0661,3,0.0101
+28,World Energy,0.0694,4,0.0134
+28,Green Energy,0.0718,5,0.0158
+29,Yukon Electric,0.0501,1,0.0
+29,Good Energy,0.0567,2,0.0066
+29,Electricon,0.0615,3,0.0114
+29,ChampStar,0.0666,4,0.0165
+29,World Energy,0.0684,5,0.0183
+30,Sure Energy,0.052,1,0.0
+30,Freedom National,0.0698,2,0.0178
+30,World Energy,0.0705,3,0.0185
+30,Acora,0.0712,4,0.0192
+30,Pecona Energy,0.0782,5,0.0262
+30,ChampStar,0.085,6,0.033
+31,Green Energy,0.0581,1,0.0
+31,Pecona Energy,0.0648,2,0.0067
+31,Freedom National,0.065,3,0.0069
+31,Yukon Electric,0.0667,4,0.0086
+31,World Energy,0.0706,5,0.0125
+31,ChampStar,0.0724,6,0.0143
+32,World Energy,0.0568,1,0.0
+32,Yukon Electric,0.0735,2,0.0167
+33,Acora,0.0514,1,0.0
+33,Pecona Energy,0.0588,2,0.0074
+33,Sure Energy,0.0644,3,0.013
+33,Electricon,0.0656,4,0.0142
+33,Freedom National,0.083,5,0.0316
+34,Good Energy,0.0506,1,0.0
+34,Yukon Electric,0.0672,2,0.0166
+34,Acora,0.0697,3,0.0191
+34,Green Energy,0.0697,4,0.0191
+34,World Energy,0.0736,5,0.023
+34,Electricon,0.078,6,0.0274
+35,ChampStar,0.0547,1,0.0
+35,Sure Energy,0.0655,2,0.0108
+35,Pecona Energy,0.066,3,0.0113
+35,World Energy,0.0683,4,0.0136
+35,Electricon,0.0698,5,0.0151
+35,Green Energy,0.0709,6,0.0162
+35,Acora,0.0757,7,0.021
+36,ChampStar,0.0532,1,0.0
+36,Good Energy,0.0706,2,0.0174
+36,Pecona Energy,0.0708,3,0.0176
+36,Yukon Electric,0.0789,4,0.0257
+36,Acora,0.0819,5,0.0287
+36,World Energy,0.0829,6,0.0297
+37,ChampStar,0.0577,1,0.0
+37,Electricon,0.0643,2,0.0066
+37,Good Energy,0.0657,3,0.008
+37,Acora,0.0714,4,0.0137
+37,Green Energy,0.076,5,0.0183
+37,Yukon Electric,0.0772,6,0.0195
+38,Electricon,0.0702,1,0.0
+39,Good Energy,0.0574,1,0.0
+39,World Energy,0.0629,2,0.0055
+40,Good Energy,0.0578,1,0.0
+40,Sure Energy,0.0584,2,0.0006
+40,Acora,0.0637,3,0.0059
+40,ChampStar,0.0693,4,0.0115
+40,World Energy,0.0722,5,0.0144
+40,Freedom National,0.0733,6,0.0155
+40,Pecona Energy,0.0783,7,0.0205
+40,Electricon,0.0798,8,0.022
+41,World Energy,0.06,1,0.0
+41,Good Energy,0.0655,2,0.0055
+41,Yukon Electric,0.0715,3,0.0115
+41,Acora,0.0772,4,0.0172
+42,World Energy,0.0556,1,0.0
+42,Freedom National,0.057,2,0.0014
+42,Electricon,0.0663,3,0.0107
+42,Yukon Electric,0.0754,4,0.0198
+42,Pecona Energy,0.0808,5,0.0253
+42,ChampStar,0.085,6,0.0295
+43,World Energy,0.0511,1,0.0
+43,Green Energy,0.0622,2,0.0111
+43,Sure Energy,0.0753,3,0.0242
+43,Yukon Electric,0.0837,4,0.0326
+44,Electricon,0.054,1,0.0
+45,Freedom National,0.0518,1,0.0
+45,Electricon,0.0532,2,0.0014
+45,ChampStar,0.0597,3,0.0079
+45,Green Energy,0.0614,4,0.0096
+45,Sure Energy,0.067,5,0.0152
+45,Acora,0.0693,6,0.0175
+45,Pecona Energy,0.0779,7,0.0261
+46,Freedom National,0.0568,1,0.0
+46,Good Energy,0.0576,2,0.0008
+46,World Energy,0.0672,3,0.0104
+46,Green Energy,0.0685,4,0.0117
+46,ChampStar,0.0725,5,0.0157
+46,Acora,0.0756,6,0.0188
+46,Sure Energy,0.0797,7,0.0229
+47,World Energy,0.0732,1,0.0
+48,ChampStar,0.0537,1,0.0
+48,Good Energy,0.0599,2,0.0062
+48,Electricon,0.0601,3,0.0064
+48,Freedom National,0.0771,4,0.0234
+49,Green Energy,0.0573,1,0.0
+49,World Energy,0.0631,2,0.0058
+50,Pecona Energy,0.058,1,0.0
+50,World Energy,0.0582,2,0.0002
+50,Yukon Electric,0.077,3,0.019
+50,Green Energy,0.0777,4,0.0197
+51,Electricon,0.0679,1,0.0
+51,Freedom National,0.0707,2,0.0028
+51,Pecona Energy,0.077,3,0.0091
+51,Sure Energy,0.0812,4,0.0133
+52,ChampStar,0.0537,1,0.0
+52,Yukon Electric,0.0607,2,0.007
+52,World Energy,0.0767,3,0.023
+52,Freedom National,0.0788,4,0.0251
+53,ChampStar,0.0584,1,0.0
+53,Pecona Energy,0.0589,2,0.0005
+53,Yukon Electric,0.0638,3,0.0054
+53,Good Energy,0.064,4,0.0056
+53,Sure Energy,0.0755,5,0.0171
+53,World Energy,0.0783,6,0.0199
+53,Electricon,0.0798,7,0.0214
+53,Freedom National,0.0818,8,0.0234
+54,Green Energy,0.0539,1,0.0
+54,World Energy,0.0566,2,0.0027
+54,Sure Energy,0.0679,3,0.014
+54,Electricon,0.0763,4,0.0224
+55,Green Energy,0.057,1,0.0
+55,ChampStar,0.0605,2,0.0035
+55,Pecona Energy,0.0662,3,0.0092
+55,Yukon Electric,0.0719,4,0.0149
+55,Acora,0.0729,5,0.0159
+55,World Energy,0.0746,6,0.0176
+55,Good Energy,0.0762,7,0.0192
+55,Sure Energy,0.0824,8,0.0254
+56,Acora,0.0565,1,0.0
+56,Freedom National,0.0773,2,0.0208
+57,Sure Energy,0.0626,1,0.0
+57,Electricon,0.0692,2,0.0066
+57,World Energy,0.0818,3,0.0192
+58,Yukon Electric,0.0542,1,0.0
+58,ChampStar,0.0556,2,0.0014
+58,World Energy,0.0616,3,0.0074
+58,Freedom National,0.0785,4,0.0243
+59,Sure Energy,0.0511,1,0.0
+59,Yukon Electric,0.0519,2,0.0008
+59,ChampStar,0.0571,3,0.006
+59,Good Energy,0.0594,4,0.0083
+59,World Energy,0.0608,5,0.0097
+59,Acora,0.0615,6,0.0104
+59,Electricon,0.0748,7,0.0237
+59,Pecona Energy,0.0788,8,0.0277
+60,Acora,0.0626,1,0.0
+60,Good Energy,0.0741,2,0.0115
+60,Yukon Electric,0.0759,3,0.0133
+61,Green Energy,0.054,1,0.0
+61,Good Energy,0.0592,2,0.0052
+61,Yukon Electric,0.0623,3,0.0082
+61,Acora,0.0653,4,0.0112
+61,Electricon,0.0727,5,0.0187
+61,World Energy,0.0756,6,0.0216
+61,Pecona Energy,0.0762,7,0.0222
+62,Freedom National,0.0587,1,0.0
+62,Electricon,0.0709,2,0.0122
+62,ChampStar,0.0746,3,0.0159
+62,Green Energy,0.0836,4,0.0249
+63,ChampStar,0.0551,1,0.0
+63,Green Energy,0.0617,2,0.0066
+63,Acora,0.067,3,0.0119
+63,Freedom National,0.0671,4,0.012
+63,Pecona Energy,0.068,5,0.0129
+64,Pecona Energy,0.053,1,0.0
+64,Acora,0.0575,2,0.0045
+64,World Energy,0.0615,3,0.0085
+65,Green Energy,0.0737,1,0.0
+65,Electricon,0.0758,2,0.002
+66,Sure Energy,0.07,1,0.0
+66,ChampStar,0.0704,2,0.0004
+66,Freedom National,0.0773,3,0.0073
+66,World Energy,0.0777,4,0.0077
+67,Sure Energy,0.0657,1,0.0
+67,Electricon,0.0741,2,0.0084
+68,Yukon Electric,0.0559,1,0.0
+68,Acora,0.062,2,0.0061
+69,Pecona Energy,0.0599,1,0.0
+69,World Energy,0.0676,2,0.0078
+70,Yukon Electric,0.062,1,0.0
+70,Freedom National,0.0693,2,0.0073
+71,Green Energy,0.059,1,0.0
+71,Good Energy,0.0655,2,0.0065
+71,Freedom National,0.0822,3,0.0232
+72,Acora,0.0638,1,0.0
+73,Freedom National,0.053,1,0.0
+73,Good Energy,0.0563,2,0.0033
+73,Pecona Energy,0.0676,3,0.0146
+73,Green Energy,0.0725,4,0.0195
+73,Acora,0.0732,5,0.0202
+73,Sure Energy,0.0758,6,0.0228
+73,ChampStar,0.0786,7,0.0256
+74,Good Energy,0.052,1,0.0
+74,Freedom National,0.0536,2,0.0016
+74,Sure Energy,0.0609,3,0.0089
+74,Electricon,0.0643,4,0.0123
+74,Acora,0.0656,5,0.0136
+74,Pecona Energy,0.0673,6,0.0153
+74,Green Energy,0.0702,7,0.0182
+74,Yukon Electric,0.0839,8,0.0319
+75,Yukon Electric,0.059,1,0.0
+75,Electricon,0.0595,2,0.0005
+75,ChampStar,0.0607,3,0.0017
+76,Freedom National,0.053,1,0.0
+76,Sure Energy,0.0665,2,0.0135
+76,Good Energy,0.0671,3,0.0141
+76,Green Energy,0.0673,4,0.0143
+76,ChampStar,0.0719,5,0.0189
+76,Yukon Electric,0.0723,6,0.0193
+76,Electricon,0.0743,7,0.0213
+76,Acora,0.0773,8,0.0243
+77,Yukon Electric,0.0512,1,0.0
+77,ChampStar,0.0562,2,0.005
+77,Electricon,0.0605,3,0.0093
+77,Good Energy,0.066,4,0.0148
+77,Green Energy,0.0678,5,0.0166
+77,World Energy,0.0683,6,0.0171
+77,Sure Energy,0.0709,7,0.0197
+77,Freedom National,0.0828,8,0.0316
+78,Pecona Energy,0.0508,1,0.0
+78,Freedom National,0.0561,2,0.0053
+78,Yukon Electric,0.0663,3,0.0155
+79,Green Energy,0.0534,1,0.0
+79,World Energy,0.0541,2,0.0007
+79,Sure Energy,0.0561,3,0.0027
+79,Good Energy,0.0585,4,0.0051
+79,Yukon Electric,0.063,5,0.0096
+79,ChampStar,0.0635,6,0.0101
+79,Pecona Energy,0.0636,7,0.0102
+79,Acora,0.0827,8,0.0293
+80,ChampStar,0.0502,1,0.0
+80,Good Energy,0.0668,2,0.0166
+80,Yukon Electric,0.0723,3,0.0221
+80,Electricon,0.0751,4,0.0249
+80,Green Energy,0.077,5,0.0268
+80,Acora,0.0799,6,0.0297
+80,Sure Energy,0.0799,7,0.0297
+81,Pecona Energy,0.0528,1,0.0
+81,Sure Energy,0.0586,2,0.0058
+81,Good Energy,0.0606,3,0.0078
+81,Acora,0.0697,4,0.0169
+82,World Energy,0.0616,1,0.0
+82,Green Energy,0.0715,2,0.0099
+83,Yukon Electric,0.0599,1,0.0
+83,Green Energy,0.0664,2,0.0065
+83,Electricon,0.0686,3,0.0087
+83,Good Energy,0.0796,4,0.0197
+84,World Energy,0.0715,1,0.0
+84,Pecona Energy,0.0787,2,0.0072
+84,Yukon Electric,0.0845,3,0.013
+85,ChampStar,0.0526,1,0.0
+85,Sure Energy,0.0546,2,0.002
+85,Yukon Electric,0.0551,3,0.0025
+85,Pecona Energy,0.0622,4,0.0096
+85,World Energy,0.0656,5,0.013
+85,Good Energy,0.0662,6,0.0136
+85,Green Energy,0.0707,7,0.0181
+85,Acora,0.0794,8,0.0268
+86,Acora,0.0742,1,0.0
+87,World Energy,0.0528,1,0.0
+87,Yukon Electric,0.0692,2,0.0164
+87,Pecona Energy,0.0707,3,0.0179
+87,Sure Energy,0.0748,4,0.0221
+87,Freedom National,0.0772,5,0.0245
+87,Green Energy,0.082,6,0.0292
+87,Electricon,0.0821,7,0.0293
+88,Freedom National,0.0533,1,0.0
+88,Sure Energy,0.0754,2,0.0222
+88,Electricon,0.0765,3,0.0232
+89,Good Energy,0.0583,1,0.0
+89,Acora,0.059,2,0.0007
+89,Electricon,0.06,3,0.0017
+89,Green Energy,0.0612,4,0.0029
+89,Pecona Energy,0.0652,5,0.0069
+89,World Energy,0.0667,6,0.0084
+89,Freedom National,0.0712,7,0.0129
+90,Yukon Electric,0.0558,1,0.0
+90,Good Energy,0.0581,2,0.0023
+90,Electricon,0.0696,3,0.0137
+90,World Energy,0.0759,4,0.0201
+90,Sure Energy,0.0778,5,0.022
+90,Green Energy,0.0807,6,0.0249
+91,Pecona Energy,0.055,1,0.0
+91,World Energy,0.0562,2,0.0013
+91,ChampStar,0.0646,3,0.0096
+91,Freedom National,0.0654,4,0.0104
+91,Electricon,0.0728,5,0.0178
+91,Good Energy,0.084,6,0.029
+92,Good Energy,0.0561,1,0.0
+92,Sure Energy,0.0659,2,0.0098
+92,Freedom National,0.0667,3,0.0106
+92,Yukon Electric,0.0674,4,0.0113
+92,World Energy,0.0679,5,0.0118
+92,Acora,0.0685,6,0.0124
+92,Electricon,0.0813,7,0.0252
+93,ChampStar,0.0559,1,0.0
+93,Yukon Electric,0.0561,2,0.0002
+93,Sure Energy,0.0649,3,0.009
+93,Electricon,0.0754,4,0.0195
+93,Green Energy,0.079,5,0.0231
+93,Good Energy,0.0825,6,0.0266
+94,Pecona Energy,0.0561,1,0.0
+94,Electricon,0.0655,2,0.0094
+94,Good Energy,0.0759,3,0.0198
+94,Green Energy,0.0782,4,0.022
+95,Sure Energy,0.064,1,0.0
+95,Pecona Energy,0.0745,2,0.0105
+95,Green Energy,0.0747,3,0.0107
+96,Good Energy,0.0548,1,0.0
+96,Freedom National,0.0722,2,0.0174
+97,Acora,0.0537,1,0.0
+97,Sure Energy,0.0561,2,0.0024
+97,Yukon Electric,0.0623,3,0.0086
+97,Freedom National,0.0728,4,0.0191
+97,ChampStar,0.074,5,0.0203
+98,World Energy,0.0582,1,0.0
+98,Acora,0.0705,2,0.0123
+98,Sure Energy,0.0772,3,0.019
+99,Acora,0.0772,1,0.0
+100,ChampStar,0.0586,1,0.0
+100,Green Energy,0.0662,2,0.0076
+100,Yukon Electric,0.0674,3,0.0088
+100,Electricon,0.0749,4,0.0163
